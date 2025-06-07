@@ -27,7 +27,7 @@ I hope that you enjoy this brief demo, feel free to tag along for the YouTube De
 # Useful Websites
 
 - [Android Studio](https://developer.android.com/studio/run)
-- [Gradle Build Optimizer]((https://developer.android.com/build/build-analyzer))
+- [Gradle Build Optimizer](https://developer.android.com/build/build-analyzer)
 - [StackOverFlow](https://shorturl.at/JDNnK)
 - [Kotlin Language](https://kotlinlang.org/docs/basic-syntax.html)
 - [W3Schools](https://www.w3schools.com/KOTLIN/index.php)
