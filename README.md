@@ -14,9 +14,7 @@ The application itself is supportable for devices with Android 8.0 and above, fo
 
 I hope that you enjoy this brief demo, feel free to tag along for the YouTube Demo to see this in action!
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[PENDING UPLOAD](http://youtube.link.goes.here)
 
 # Development Environment
 
