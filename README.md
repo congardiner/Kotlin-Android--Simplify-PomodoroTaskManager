@@ -14,7 +14,7 @@ The application itself is supportable for devices with Android 8.0 and above, fo
 
 I hope that you enjoy this brief demo, feel free to tag along for the YouTube Demo to see this in action!
 
-[Extensive Video Walkthrough of the Project](http://youtube.link.goes.here](https://youtu.be/bhL_3MaGXnI)
+[Extensive Video Walkthrough of the Project](https://youtu.be/bhL_3MaGXnI)
 
 # Development Environment
 
